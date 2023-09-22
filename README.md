@@ -58,5 +58,6 @@ alias lf=lfrun
 * [lf](https://github.com/gokcehan/lf/)
 * [Seebye's Überzug](https://github.com/seebye/ueberzug)
 * [Brodie's](https://github.com/BrodieRobertson/) initial preview script which
-  I used as a template for handling the miscellaneous filetypes that this
+  The eailer used as a template for handling the miscellaneous filetypes that this
   script also handles.
+* [Original Repo (lfimg)](https://github.com/cirala/vifmimg) Of th
